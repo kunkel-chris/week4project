@@ -26,5 +26,5 @@ The code run_analysis.R creates the output dataset called "FinalTidyWeek4.txt" w
     * BodyAccJerk - Body component of accelerometer jerk
     * BodyGyro - Body component of gyroscope result in units of radians/second
     * BodyGyroJerk - Body component of gyroscope result in units of radians/second
-    * Mean or StandardDeviation - indicates whether the value shows the mean or standard deviation of the given measurement for the given subject and activity
+  * Mean or StandardDeviation - indicates whether the value shows the mean or standard deviation of the given measurement for the given subject and activity
   * X, Y, or Z - indicates which axis the measurement corresponds to
